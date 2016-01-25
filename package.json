@@ -1,0 +1,15 @@
+{
+  "name": "es6",
+  "version": "1.0.0",
+  "description": "Dojo ES6",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm install && node index"
+  },
+  "dependencies" : {
+    "q" : "latest",
+    "request" : "latest"
+  },
+  "author": "BEEVA",
+  "private" : true
+}
